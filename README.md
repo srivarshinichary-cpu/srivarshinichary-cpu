@@ -1,27 +1,283 @@
 <h1 align="center">Hi 👋, I'm Mandam Sri Varshini</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srivarshinichary-cpu&label=Profile%20views&color=0e75b6&style=flat" alt="srivarshinichary-cpu" /> </p>
+<h3 align="center">Data Analyst | Python | SQL | Power BI | Data Science</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srivarshinichary-cpu" alt="srivarshinichary-cpu" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/srivarshinichary-cpu](https://github.com/srivarshinichary-cpu)
-
-- 📫 How to reach me **srivarshinichary@gmail.com**
-
-- ⚡ Fun fact **Iam a content creator**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/mandam-srivarshini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/mandam-srivarshini" height="30" width="40" /></a>
-<a href="https://instagram.com/_sri.__varshini__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sri.__varshini__" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/srivarshinichary-cpu">
+    <img src="https://komarev.com/ghpvc/?username=srivarshinichary-cpu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Data+Science+Graduate;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srivarshinichary-cpu&show_icons=true&locale=en&layout=compact" alt="srivarshinichary-cpu" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srivarshinichary-cpu&show_icons=true&locale=en" alt="srivarshinichary-cpu" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srivarshinichary-cpu&" alt="srivarshinichary-cpu" /></p>
+🎓 B.Tech graduate in **Data Science**
+
+📊 Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
+
+🐍 Working with **Python** for data analysis and automation.
+
+🗄️ Strong interest in **SQL, databases, data cleaning and analytics**.
+
+📈 Building interactive dashboards using **Power BI and DAX**.
+
+💡 Interested in **Data Analytics, Business Intelligence and Data Science**.
+
+🚀 Currently improving my technical and problem-solving skills through projects and hands-on learning.
+
+🌱 Currently learning and practicing **Python, SQL, Power BI and Data Analytics**.
+
+⚡ Fun fact: **I'm also a content creator.**
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Programming & Query Languages
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+</a>
+
+</p>
+
+### 📊 Data Analytics & Visualization
+
+<p align="left">
+
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" alt="Matplotlib"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
+</a>
+
+</p>
+
+### 🤖 Machine Learning
+
+<p align="left">
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow"/>
+</a>
+
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="45" height="45" alt="GitHub"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+</a>
+
+</p>
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Sales Analysis Using SQL
+
+**Technologies:** MySQL | SQL | Data Analysis
+
+* Designed a relational database for e-commerce sales analysis.
+* Used SQL `JOIN`, `GROUP BY`, `ORDER BY`, `SUM` and `COUNT`.
+* Analyzed sales performance and identified top-selling products.
+* Built analytical queries to extract business insights.
+
+🔗 **Repository:**
+https://github.com/srivarshinichary-cpu/E-Commerce-Sales-Analysis-Using-SQL
+
+---
+
+### 👥 HR Analytics Dashboard
+
+**Technologies:** Power BI | DAX | Power Query | Data Visualization
+
+* Built an interactive HR analytics dashboard.
+* Used Power Query for data transformation and cleaning.
+* Created DAX measures for analytical insights.
+* Visualized employee and HR-related metrics through interactive reports.
+
+🔗 **Explore my repositories:**
+https://github.com/srivarshinichary-cpu
+
+---
+
+### 📈 Cryptocurrency Trend Forecasting
+
+**Technologies:** Python | LSTM | TensorFlow | Machine Learning
+
+* Developed a deep-learning-based cryptocurrency forecasting project.
+* Applied LSTM networks for time-series prediction.
+* Evaluated model performance using regression metrics.
+* Explored historical cryptocurrency trends through Python.
+
+🔗 **Explore my repositories:**
+https://github.com/srivarshinichary-cpu
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srivarshinichary-cpu&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivarshinichary-cpu&layout=compact&langs_count=8&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=srivarshinichary-cpu&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivarshinichary-cpu&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=srivarshinichary-cpu&row=1&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/srivarshinichary-cpu/srivarshinichary-cpu/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</p>
+
+---
+
+## 📌 GitHub Profile Metrics
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/srivarshinichary-cpu?label=Followers&style=for-the-badge" alt="Followers"/>
+
+<img src="https://img.shields.io/github/stars/srivarshinichary-cpu?label=Total%20Stars&style=for-the-badge" alt="Stars"/>
+
+<img src="https://komarev.com/ghpvc/?username=srivarshinichary-cpu&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
+
+</p>
+
+---
+
+## 📚 Currently Learning
+
+```text
+Python          ████████████████████░░░░
+SQL             █████████████████████░░░
+Power BI        ███████████████████░░░░░
+Data Analytics  ███████████████████░░░░░
+Machine Learning███████████████░░░░░░░░░
+```
+
+---
+
+## 🎓 Education
+
+**Bachelor of Technology – Data Science**
+
+Swami Vivekananda Institute of Technology
+Affiliated with JNTUH
+
+---
+
+## 💼 Professional Development
+
+**Infosys Springboard – Virtual Internship**
+
+Python Stack
+
+Currently developing practical skills through structured learning, projects and hands-on programming.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/mandam-srivarshini/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+
+<a href="https://instagram.com/_sri.__varshini__" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+</a>
+
+<a href="mailto:srivarshinichary@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40"/>
+</a>
+
+</p>
+
+---
+
+## 💬 Let's Connect
+
+I'm open to opportunities related to:
+
+**Data Analytics • Business Intelligence • Python • SQL • Power BI • Data Science**
+
+If you're interested in collaborating on data projects, feel free to connect with me!
+
+---
+
+<p align="center">
+  <b>✨ Turning data into insights, one project at a time. ✨</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
