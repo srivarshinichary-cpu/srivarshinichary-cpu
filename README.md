@@ -123,8 +123,8 @@
 * Built an interactive Power BI dashboard to monitor churn-related metrics.
 * Identified key customer segments and factors contributing to churn.
 
-🔗 **Explore my repositories:**
-https://github.com/srivarshinichary-cpu
+🔗 Repository:
+https://github.com/srivarshinichary-cpu/Customer-Churn-Retention-Analytics
 
 ---
 
@@ -138,8 +138,8 @@ https://github.com/srivarshinichary-cpu
 * Created interactive Power BI dashboards for customer segmentation and key business metrics.
 * Generated actionable insights from customer data to support data-driven decision-making.
 
-🔗 **Explore my repositories:**
-https://github.com/srivarshinichary-cpu
+🔗 Repository:
+https://github.com/srivarshinichary-cpu/Customer-360-Analytics_
 
 ---
 
@@ -153,8 +153,8 @@ https://github.com/srivarshinichary-cpu
 * Evaluated model performance using regression metrics.
 * Visualized historical trends and predicted values to analyze market patterns.
 
-🔗 **Explore my repositories:**
-https://github.com/srivarshinichary-cpu
+🔗 Repository:
+https://github.com/srivarshinichary-cpu/crypto-trend-forecast
 
 
 ## 📊 GitHub Analytics
