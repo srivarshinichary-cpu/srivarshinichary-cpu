@@ -113,28 +113,30 @@
 
 ## 📌 Featured Projects
 
-### 🛒 E-Commerce Sales Analysis Using SQL
+### 👥 Customer Churn Analysis
 
-**Technologies:** MySQL | SQL | Data Analysis
+**Technologies:** Python | SQL | Power BI | Data Analytics
 
-* Designed a relational database for e-commerce sales analysis.
-* Used SQL `JOIN`, `GROUP BY`, `ORDER BY`, `SUM` and `COUNT`.
-* Analyzed sales performance and identified top-selling products.
-* Built analytical queries to extract business insights.
+* Analyzed customer data to identify patterns and factors associated with customer churn.
+* Performed data cleaning, exploratory analysis and visualization.
+* Used SQL and Python to extract meaningful customer insights.
+* Built an interactive Power BI dashboard to monitor churn-related metrics.
+* Identified key customer segments and factors contributing to churn.
 
-🔗 **Repository:**
-https://github.com/srivarshinichary-cpu/E-Commerce-Sales-Analysis-Using-SQL
+🔗 **Explore my repositories:**
+https://github.com/srivarshinichary-cpu
 
 ---
 
-### 👥 HR Analytics Dashboard
+### 🎯 Customer 360 Analytics
 
-**Technologies:** Power BI | DAX | Power Query | Data Visualization
+**Technologies:** Python | SQL | Power BI | Data Analytics
 
-* Built an interactive HR analytics dashboard.
-* Used Power Query for data transformation and cleaning.
-* Created DAX measures for analytical insights.
-* Visualized employee and HR-related metrics through interactive reports.
+* Developed a Customer 360 analytics project to understand customer behavior and engagement.
+* Combined and analyzed customer-related data to create a unified customer view.
+* Used SQL for data extraction, transformation and analysis.
+* Created interactive Power BI dashboards for customer segmentation and key business metrics.
+* Generated actionable insights from customer data to support data-driven decision-making.
 
 🔗 **Explore my repositories:**
 https://github.com/srivarshinichary-cpu
@@ -145,15 +147,15 @@ https://github.com/srivarshinichary-cpu
 
 **Technologies:** Python | LSTM | TensorFlow | Machine Learning
 
-* Developed a deep-learning-based cryptocurrency forecasting project.
-* Applied LSTM networks for time-series prediction.
+* Developed a deep-learning-based cryptocurrency trend forecasting project.
+* Applied LSTM neural networks for time-series prediction.
+* Processed historical cryptocurrency data using Python.
 * Evaluated model performance using regression metrics.
-* Explored historical cryptocurrency trends through Python.
+* Visualized historical trends and predicted values to analyze market patterns.
 
 🔗 **Explore my repositories:**
 https://github.com/srivarshinichary-cpu
 
----
 
 ## 📊 GitHub Analytics
 
