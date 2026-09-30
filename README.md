@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mandam Sri Varshini</h1>
 
-<h3 align="center">System Engineer | Python | Java | SQL | API Testing | Software Engineering</h3>
+<h3 align="center"> Python | Java | SQL | API Testing | Software Engineering</h3>
 
 <p align="center">
   <a href="https://github.com/srivarshinichary-cpu">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=System+Engineer+Fresher;Python+%7C+Java+%7C+SQL;API+Testing+%7C+PyTest+%7C+Requests;Software+Engineering+%7C+Problem+Solving;Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Engineer+Fresher;Python+%7C+Java+%7C+SQL;API+Testing+%7C+PyTest+%7C+Requests;Software+Engineering+%7C+Problem+Solving;Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
 </p>
 
 ---
