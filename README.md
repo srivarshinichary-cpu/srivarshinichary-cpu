@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mandam Sri Varshini</h1>
 
-<h3 align="center">| Python | Java | SQL | API Testing | Software Engineering</h3>
+<h3 align="center">System Engineer | Python | Java | SQL | API Testing | Software Engineering</h3>
 
 <p align="center">
   <a href="https://github.com/srivarshinichary-cpu">
@@ -9,28 +9,30 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Data+Analyst+%7C+Data+Science+Graduate;Python+%7C+SQL+%7C+Power+BI;Turning+Data+into+Insights;Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=System+Engineer+Fresher;Python+%7C+Java+%7C+SQL;API+Testing+%7C+PyTest+%7C+Requests;Software+Engineering+%7C+Problem+Solving;Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech graduate in **Data Science**
+🎓 B.Tech graduate in **Computer Science Engineering – Data Science**
 
-📊 Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
+💻 Aspiring **System Engineer** with a strong foundation in **Python, Java, SQL and software engineering concepts**.
 
-🐍 Working with **Python** for data analysis and automation.
+🐍 Comfortable working with **Python** for programming, automation and problem-solving.
 
-🗄️ Strong interest in **SQL, databases, data cleaning and analytics**.
+☕ Familiar with **Java fundamentals and Object-Oriented Programming concepts**.
 
-📈 Building interactive dashboards using **Power BI and DAX**.
+🗄️ Interested in **SQL, relational databases, data management and application development**.
 
-💡 Interested in **Data Analytics, Business Intelligence and Data Science**.
+🧪 Hands-on experience with **REST API testing using Python, Requests and PyTest**.
 
-🚀 Currently improving my technical and problem-solving skills through projects and hands-on learning.
+🔧 Familiar with **Git, GitHub and VS Code** for development and version control.
 
-🌱 Currently learning and practicing **Python, SQL, Power BI and Data Analytics**.
+🚀 Building practical skills through software projects, automation and hands-on learning.
+
+🌱 Currently strengthening my knowledge of **Python, Java, SQL, API testing and software engineering**.
 
 ⚡ Fun fact: **I'm also a content creator.**
 
@@ -38,12 +40,23 @@
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Programming & Query Languages
+### 👩‍💻 Programming Languages
 
 <p align="left">
+
 <a href="https://www.python.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
 </a>
+
+<a href="https://www.java.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+</a>
+
+</p>
+
+### 🗄️ Database & Query Language
+
+<p align="left">
 
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
@@ -51,47 +64,23 @@
 
 </p>
 
-### 📊 Data Analytics & Visualization
+### 🧪 Testing & Automation
 
 <p align="left">
 
-<a href="https://powerbi.microsoft.com/" target="_blank">
-<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45" alt="Power BI"/>
+<a href="https://pytest.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="45" height="45" alt="PyTest"/>
 </a>
 
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="45" height="45" alt="Matplotlib"/>
-</a>
-
-<a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45" alt="Seaborn"/>
+<a href="https://requests.readthedocs.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/psf/requests/main/ext/requests-logo.png" width="45" height="45" alt="Requests"/>
 </a>
 
 </p>
 
-### 🤖 Machine Learning
+**API Testing:** REST APIs | GET | POST | PUT | DELETE | Negative Testing
 
-<p align="left">
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45" height="45" alt="TensorFlow"/>
-</a>
-
-</p>
-
-### 🔧 Tools & Platforms
+### 🔧 Development Tools
 
 <p align="left">
 
@@ -109,19 +98,67 @@
 
 </p>
 
+### 📚 Additional Technologies
+
+**OOP | DBMS | REST APIs | SQL | Python Automation | Basic Data Structures & Algorithms**
+
 ---
 
 ## 📌 Featured Projects
 
-### 👥 Customer Churn Analysis
+### 🧪 API Test Automation
 
-**Technologies:** Python | SQL | Power BI | Data Analytics
+**Technologies:** Python | PyTest | Requests | REST API | JSON
 
-* Analyzed customer data to identify patterns and factors associated with customer churn.
-* Performed data cleaning, exploratory analysis and visualization.
-* Used SQL and Python to extract meaningful customer insights.
-* Built an interactive Power BI dashboard to monitor churn-related metrics.
-* Identified key customer segments and factors contributing to churn.
+* Developed an API automation framework using **Python, Requests and PyTest**.
+* Automated **GET, POST, PUT and DELETE** API operations.
+* Implemented positive and negative test scenarios for REST APIs.
+* Validated HTTP status codes and API responses using automated test cases.
+* Organized test cases using **PyTest** for repeatable and maintainable execution.
+* Executed the test suite successfully with **5/5 test cases passing**.
+
+🔗 Repository:
+https://github.com/srivarshinichary-cpu/api-test-automation
+
+---
+
+### 🗄️ E-Commerce Database Management System
+
+**Technologies:** SQL | MySQL | DBMS | Relational Database
+
+* Developed an SQL-based **E-Commerce Database Management System**.
+* Designed and queried relational tables for customers, products and orders.
+* Used **JOINs, filtering, aggregation and SQL queries** to retrieve business data.
+* Created queries to analyze customer orders, products and transaction details.
+* Practiced relational database concepts and structured data management.
+
+🔗 Repository:
+https://github.com/srivarshinichary-cpu/ecommerce-database-management-system-
+
+---
+
+### 👁️ Object Detection from an Image
+
+**Technologies:** Python | TensorFlow | OpenCV | NumPy | Computer Vision
+
+* Developed an image-based object detection project using **Python and computer vision libraries**.
+* Used **OpenCV and NumPy** for image processing and manipulation.
+* Applied TensorFlow-based techniques for object detection.
+* Processed input images and identified objects within the image.
+* Practiced Python programming, image processing and machine learning concepts.
+
+🔗 Repository:
+https://github.com/srivarshinichary-cpu/object_detection_from_an_image_
+
+---
+
+## 📊 Additional Projects
+
+### 👥 Customer Churn & Retention Analytics
+
+**Technologies:** Python | SQL | Power BI
+
+Analyzed customer data using Python and SQL and created an interactive Power BI dashboard to identify customer churn patterns and at-risk segments.
 
 🔗 Repository:
 https://github.com/srivarshinichary-cpu/Customer-Churn-Retention-Analytics
@@ -130,32 +167,14 @@ https://github.com/srivarshinichary-cpu/Customer-Churn-Retention-Analytics
 
 ### 🎯 Customer 360 Analytics
 
-**Technologies:** Python | SQL | Power BI | Data Analytics
+**Technologies:** Python | SQL | Power BI
 
-* Developed a Customer 360 analytics project to understand customer behavior and engagement.
-* Combined and analyzed customer-related data to create a unified customer view.
-* Used SQL for data extraction, transformation and analysis.
-* Created interactive Power BI dashboards for customer segmentation and key business metrics.
-* Generated actionable insights from customer data to support data-driven decision-making.
+Developed a customer analytics project using Python, SQL and Power BI to analyze customer behavior, segmentation and business metrics.
 
 🔗 Repository:
 https://github.com/srivarshinichary-cpu/Customer-360-Analytics_
 
 ---
-
-### 📈 Cryptocurrency Trend Forecasting
-
-**Technologies:** Python | LSTM | TensorFlow | Machine Learning
-
-* Developed a deep-learning-based cryptocurrency trend forecasting project.
-* Applied LSTM neural networks for time-series prediction.
-* Processed historical cryptocurrency data using Python.
-* Evaluated model performance using regression metrics.
-* Visualized historical trends and predicted values to analyze market patterns.
-
-🔗 Repository:
-https://github.com/srivarshinichary-cpu/crypto-trend-forecast
-
 
 ## 📊 GitHub Analytics
 
@@ -218,31 +237,32 @@ https://github.com/srivarshinichary-cpu/crypto-trend-forecast
 ## 📚 Currently Learning
 
 ```text
-Python          ████████████████████░░░░
-SQL             █████████████████████░░░
-Power BI        ███████████████████░░░░░
-Data Analytics  ███████████████████░░░░░
-Machine Learning███████████████░░░░░░░░░
+Python              ███████████████████████░░
+Java                ██████████████████░░░░░░
+SQL                 █████████████████████░░░
+API Testing         █████████████████░░░░░░░
+Software Engineering████████████████░░░░░░░░
+Problem Solving     █████████████████░░░░░░░
 ```
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology – Data Science**
+**Bachelor of Technology – Computer Science Engineering (Data Science)**
 
-Swami Vivekananda Institute of Technology
-Affiliated with JNTUH
+**Swami Vivekananda Institute of Technology**
+Affiliated with **JNTUH**
 
 ---
 
 ## 💼 Professional Development
 
-**Infosys Springboard – Virtual Internship**
+### Infosys Springboard – Virtual Internship
 
-Python Stack
+**Python Stack**
 
-Currently developing practical skills through structured learning, projects and hands-on programming.
+Currently developing practical programming skills through structured learning, hands-on exercises and Python-based projects.
 
 ---
 
@@ -270,16 +290,17 @@ Currently developing practical skills through structured learning, projects and 
 
 I'm open to opportunities related to:
 
-**Data Analytics • Business Intelligence • Python • SQL • Power BI • Data Science**
+**System Engineering • Software Engineering • Python • Java • SQL • API Testing • QA Automation**
 
-If you're interested in collaborating on data projects, feel free to connect with me!
+If you're interested in collaborating on software, automation or technology projects, feel free to connect with me!
 
 ---
 
 <p align="center">
-  <b>✨ Turning data into insights, one project at a time. ✨</b>
+  <b>✨ Building solutions, learning continuously, and growing as a software engineer. ✨</b>
 </p>
 
 <p align="center">
   ⭐ If you find my projects useful, consider giving them a star!
 </p>
+
