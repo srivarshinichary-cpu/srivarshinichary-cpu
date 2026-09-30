@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mandam Sri Varshini</h1>
 
-<h3 align="center">Data Analyst | Python | SQL | Power BI | Data Science</h3>
+<h3 align="center">| Python | Java | SQL | API Testing | Software Engineering</h3>
 
 <p align="center">
   <a href="https://github.com/srivarshinichary-cpu">
