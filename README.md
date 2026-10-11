@@ -125,7 +125,7 @@ This experience complements my interest in quality engineering by strengthening 
 
 **Quality Engineering Focus:** UI Automation | API Testing | Database Validation | Test Execution | Test Reporting | Reusable Test Architecture
 
-🔗 **Repository:** [Intelligent E-Commerce QA Automation Platform](https://github.com/srivarshinichary-cpu/api-test-automation)
+🔗 **Repository:** [Intelligent E-Commerce QA Automation Platform](https://github.com/srivarshinichary-cpu/intelligent-ecommerce-qa)
 
 
 ### 🌐 2. API Test Automation Framework
