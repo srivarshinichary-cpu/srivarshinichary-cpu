@@ -40,7 +40,6 @@
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
 </p>
 
 **Python | Java Fundamentals | Object-Oriented Programming**
@@ -142,31 +141,7 @@ This experience complements my interest in quality engineering by strengthening 
 
 ---
 
-## 📌 Additional Projects
 
-### 🗄️ E-Commerce Database Management System
-
-**Technologies:** SQL | MySQL | Relational Databases
-
-* Developed an SQL-based database project for e-commerce information.
-* Worked with relational tables representing customers, products, and orders.
-* Used JOINs, filtering, and aggregation to retrieve structured data.
-* Practiced querying and validating information across related tables.
-
-🔗 **Repository:** [E-Commerce Database Management System](https://github.com/srivarshinichary-cpu/ecommerce-database-management-system-)
-
-### 👁️ Object Detection from an Image
-
-**Technologies:** Python | TensorFlow | OpenCV | NumPy
-
-* Developed an image-based object detection project using Python and computer vision libraries.
-* Used OpenCV and NumPy for image processing.
-* Applied TensorFlow-based techniques to identify objects in images.
-* Gained practical experience in Python programming and machine learning concepts.
-
-🔗 **Repository:** [Object Detection from an Image](https://github.com/srivarshinichary-cpu/object_detection_from_an_image)
-
----
 
 ## 📊 GitHub Analytics
 
@@ -196,7 +171,7 @@ Swami Vivekananda Institute of Technology
 Affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH)
 
 **Graduation:** 2022–2026
-**CGPA:** 7.5/10
+
 
 ---
 
@@ -206,6 +181,16 @@ Affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH)
 
 **Status:** Selected
 
-Selected for the Infosys Springboard Python Stack Virtual Internship, focused on developing Python programming skills through structured lear
+Selected for the Infosys Springboard Python Stack Virtual Internship, focused on developing Python programming skills through structured learning and practical exercises.
+
+🤝 Connect With Me
+
+<p align="left"> <a href="https://www.linkedin.com/in/mandam-srivarshini/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a> <a href="https://instagram.com/_sri.__varshini__" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/> </a> <a href="mailto:srivarshinichary@gmail.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40"/> </a> </p>
+
+💼 Career Objective
+
+Aspiring Quality Engineer seeking opportunities to contribute to software quality through test automation, API validation, database testing, and structured test execution. Interested in developing maintainable automation frameworks, improving test coverage, investigating defects, and collaborating with engineering teams to deliver reliable software.
+
+<p align="center"> <b>✨ Quality through testing. Confidence through validation. Reliability through automation. ✨</b> </p>
 
 
