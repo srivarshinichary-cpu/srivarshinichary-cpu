@@ -127,7 +127,25 @@ This experience complements my interest in quality engineering by strengthening 
 
 🔗 **Repository:** [Intelligent E-Commerce QA Automation Platform](https://github.com/srivarshinichary-cpu/api-test-automation)
 
-### 📊 2. Customer Churn & Retention Analytics
+
+### 🌐 2. API Test Automation Framework
+
+**Technologies:** Python | PyTest | Requests | REST API Testing | GitHub Actions | pytest-html
+
+* Developed an automated REST API testing framework using Python, PyTest, and Requests to test **GET, POST, PUT, and DELETE** operations.
+* Implemented positive and negative test cases, including parameterized tests for validating responses to multiple invalid user IDs.
+* Validated HTTP status codes, response payloads, required fields, and response times to verify API behavior.
+* Implemented request timeouts to prevent API requests from waiting indefinitely.
+* Generated self-contained HTML test reports using `pytest-html` for test result analysis.
+* Configured **GitHub Actions** to automatically execute API tests on code pushes and pull requests.
+* Executed **7 test cases successfully**, including three parameterized negative test cases, in the latest local test run.
+
+**Quality Engineering Focus:** REST API Automation | Positive and Negative Testing | Response Validation | Test Reporting | Continuous Integration
+
+🔗 **Repository:** [API Test Automation Framework](https://github.com/srivarshinichary-cpu/api-test-automation)
+
+
+### 📊 3. Customer Churn & Retention Analytics
 
 **Technologies:** Python | SQL | Power BI | Pandas | Data Validation
 
