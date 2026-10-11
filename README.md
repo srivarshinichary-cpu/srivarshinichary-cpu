@@ -45,8 +45,7 @@
 </p>
 
 - Python
-- Java Fundamentals
-- Object-Oriented Programming Fundamentals
+
 
 ### 🧪 Test Automation & Quality Engineering
 
