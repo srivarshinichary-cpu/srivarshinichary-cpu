@@ -176,7 +176,7 @@
 
 **Quality Engineering Focus:** UI Automation | API Testing | Database Validation | Test Execution | Test Reporting
 
-🔗 **Repository:** Add the correct e-commerce project repository URL here.
+🔗 **Repository:** [Intelligent E-Commerce QA Automation Platform](https://github.com/srivarshinichary-cpu/intelligent-ecommerce-qa).
 
 ---
 
