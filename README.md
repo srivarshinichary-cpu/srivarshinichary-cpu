@@ -6,9 +6,12 @@
   <img src="https://komarev.com/ghpvc/?username=srivarshinichary-cpu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Quality+Engineering+%7C+Test+Automation;Python+%7C+Selenium+%7C+PyTest;REST+API+Testing+%7C+SQL;Test+Reporting+%7C+Data+Validation;Building+Reliable+Software+Through+Testing" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Quality+Assurance+Engineering;Data+Analytics+%7C+SQL+%7C+Power+BI;Python+Programming+%7C+Automation" alt="Typing SVG"/>
 </p>
+
+
 
 ---
 
