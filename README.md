@@ -41,7 +41,7 @@
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java" alt="Python and Java"/>
+  <img src="https://skillicons.dev/icons?i=python,java" alt="Python"/>
 </p>
 
 - Python
