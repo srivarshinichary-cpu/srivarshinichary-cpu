@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mandam Sri Varshini</h1>
 
-<h3 align="center">Aspiring Quality Engineer | Python | Selenium | PyTest | API Testing | SQL</h3>
+<h3 align="center">
+  Aspiring Quality Engineer | Python | Selenium | PyTest | API Testing | SQL
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=srivarshinichary-cpu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Quality+Engineering;Data+Analytics+%7C+SQL+%7C+Power+BI;Python+Programming+%7C+Automation" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=Quality+Engineering;Python+%7C+Selenium+%7C+PyTest;REST+API+Testing+%7C+SQL;Test+Automation+%7C+GitHub+Actions;Data+Analytics+%7C+Power+BI" alt="Typing SVG"/>
 </p>
-
-
 
 ---
 
@@ -19,21 +18,21 @@
 
 🎓 Computer Science Engineering graduate specializing in Data Science from Swami Vivekananda Institute of Technology, affiliated with JNTUH.
 
-🧪 Aspiring **Quality Engineer** with hands-on project experience in test automation, API validation, and software quality assurance.
+🧪 Aspiring **Quality Engineer** with hands-on project experience in API testing, test automation, and software quality validation.
 
-🐍 Experienced in using Python to develop automated test cases and validate application behavior.
+🐍 Use Python, PyTest, and Requests to develop automated REST API tests.
 
-🌐 Hands-on experience with REST API testing using Requests and PyTest, including positive and negative test scenarios.
+🌐 Familiar with HTTP methods, status codes, JSON response validation, positive and negative testing, and request timeouts.
 
-🔍 Interested in UI automation, functional testing, database validation, defect investigation, and root-cause analysis.
+🔍 Interested in UI automation, functional testing, database validation, test reporting, and defect investigation.
 
-🗄️ Familiar with SQL and relational database concepts for querying and validating structured data.
+🗄️ Familiar with SQL and relational databases for querying and validating structured data.
 
-📊 Experienced in analyzing customer data using Python and SQL and presenting insights through Power BI dashboards.
+⚙️ Gaining practical development experience through an internship project involving FastAPI, PostgreSQL, Docker, and workflow automation.
 
-⚙️ Currently gaining practical software development experience through an internship project involving FastAPI, PostgreSQL, and workflow automation.
+📊 Experienced in analyzing customer data using Python and SQL and presenting findings through Power BI dashboards.
 
-🚀 Focused on building reliable, maintainable, and reusable test automation solutions while continuously strengthening my quality engineering skills.
+🚀 Focused on building reliable, maintainable, and reusable automation solutions while continuously improving my technical skills.
 
 ---
 
@@ -41,128 +40,184 @@
 
 ### 💻 Programming Languages
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java" alt="Python and Java"/>
 </p>
 
-**Python | Java Fundamentals | Object-Oriented Programming**
+- Python
+- Java Fundamentals
+- Object-Oriented Programming Fundamentals
 
 ### 🧪 Test Automation & Quality Engineering
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" width="55" height="45" alt="PyTest"/>
-  <img src="https://raw.githubusercontent.com/psf/requests/main/ext/requests-logo.png" width="45" height="45" alt="Requests"/>
-</p>
-
-**Python Test Automation | PyTest | Selenium WebDriver | UI Testing | REST API Testing | Functional Testing | Positive and Negative Testing | Test Case Design | Test Execution | Test Reporting | Defect Analysis**
+- PyTest
+- Selenium WebDriver
+- UI Automation
+- Functional Testing
+- Test Case Design and Execution
+- Assertions and Fixtures
+- Parameterized Testing
+- Page Object Model (POM)
+- Positive and Negative Testing
+- Test Result Analysis
 
 ### 🌐 API Testing
 
-**REST APIs | GET | POST | PUT | DELETE | HTTP Status Codes | JSON Response Validation | Positive and Negative Scenarios**
+- REST API Testing
+- Python Requests Library
+- GET, POST, PUT, and DELETE
+- HTTP Status Code Validation
+- JSON Response Validation
+- Response Time Checks
+- Request Timeouts
+- Negative Testing
+- API Test Automation
 
-### 🗄️ Database Testing
+### 🗄️ Database & SQL
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55" height="45" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" alt="Database technologies"/>
 </p>
 
-**SQL | MySQL | Relational Databases | Data Validation | Database Queries | JOINs | Filtering | Aggregation**
+- SQL
+- MySQL
+- SQLite
+- PostgreSQL
+- CRUD Operations
+- Filtering and Sorting
+- JOINs
+- Aggregate Functions
+- Database Validation
 
-### 📊 Data Analysis & Reporting
+### 📊 Test Reporting & Continuous Integration
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
-</p>
-
-**Python | Pandas | NumPy | SQL | Power BI | Excel | Data Cleaning | Data Validation | Dashboard Reporting**
+- pytest-html
+- Self-Contained HTML Reports
+- GitHub Actions
+- Automated Test Execution
+- Continuous Integration Fundamentals
+- Test Result Reporting
 
 ### 🔧 Development Tools
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" alt="Development tools"/>
 </p>
 
-**Git | GitHub | VS Code | Jupyter Notebook**
+- Git and GitHub
+- Visual Studio Code
+- Jupyter Notebook
+- Swagger UI
+- Docker
+
+### 📈 Data Analytics & Visualization
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and SQL"/>
+</p>
+
+- Pandas
+- NumPy
+- Power BI
+- Microsoft Excel
+- Data Cleaning
+- Data Validation
+- Exploratory Data Analysis
+- Dashboard Reporting
 
 ---
 
 ## 💼 Internship Experience
 
-### Dynamic Workflow Automation System Using a Digital Data Collection Framework
-
-**Focus:** Backend Development | API Design | Database Integration
+### Development of a Dynamic Workflow Automation System Using a Digital Data Collection Framework
 
 **Technologies:** Python | FastAPI | PostgreSQL | Docker | REST APIs
 
-* Configured the FastAPI backend development environment and implemented initial application endpoints.
-* Verified API behavior using Swagger UI and HTTP responses.
-* Set up a PostgreSQL development database using Docker.
-* Working toward database integration and schema management for dynamic forms, versioning, and submissions.
-* Developing practical understanding of API behavior, backend workflows, and database-backed applications.
+- Configured the FastAPI backend development environment and implemented initial application endpoints.
+- Verified API behavior and HTTP responses using Swagger UI.
+- Set up a PostgreSQL development database using Docker.
+- Working toward database integration and schema management for dynamic forms, versioning, and submissions.
+- Developing practical understanding of API behavior, backend workflows, and database-backed applications.
 
-This experience complements my interest in quality engineering by strengthening my understanding of application behavior, API design, and backend validation.
+**Related Skills:** API Validation | Backend Understanding | Database Integration | Software Development
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧪 1. Intelligent E-Commerce QA Automation Platform
-
-**Technologies:** Python | Selenium | PyTest | REST APIs | SQL | Page Object Model
-
-* Developed a test automation solution covering UI, API, and database-related scenarios for an e-commerce application.
-* Automated **10 test scenarios** across key application workflows.
-* Organized UI automation using a reusable **Page Object Model (POM)** structure.
-* Implemented automated checks for application behavior and data consistency.
-* Executed the test suite with a reported **100% pass rate** for the implemented scenarios.
-* Optimized test execution to approximately **28 seconds**.
-* Incorporated HTML test reporting to improve test result visibility.
-* Practiced test maintenance, validation, and investigation of unexpected results.
-
-**Quality Engineering Focus:** UI Automation | API Testing | Database Validation | Test Execution | Test Reporting | Reusable Test Architecture
-
-🔗 **Repository:** [Intelligent E-Commerce QA Automation Platform](https://github.com/srivarshinichary-cpu/intelligent-ecommerce-qa)
-
-
-### 🌐 2. API Test Automation Framework
+### 🌐 1. API Test Automation Framework
 
 **Technologies:** Python | PyTest | Requests | REST API Testing | GitHub Actions | pytest-html
 
-* Developed an automated REST API testing framework using Python, PyTest, and Requests to test **GET, POST, PUT, and DELETE** operations.
-* Implemented positive and negative test cases, including parameterized tests for validating responses to multiple invalid user IDs.
-* Validated HTTP status codes, response payloads, required fields, and response times to verify API behavior.
-* Implemented request timeouts to prevent API requests from waiting indefinitely.
-* Generated self-contained HTML test reports using `pytest-html` for test result analysis.
-* Configured **GitHub Actions** to automatically execute API tests on code pushes and pull requests.
-* Executed **7 test cases successfully**, including three parameterized negative test cases, in the latest local test run.
+- Developed an automated REST API testing framework using Python, PyTest, and Requests to test GET, POST, PUT, and DELETE operations.
+- Implemented positive and negative test cases, including parameterized tests for multiple invalid user IDs.
+- Validated HTTP status codes, response payloads, required fields, and response times.
+- Added request timeouts to limit how long API requests wait for responses.
+- Generated self-contained HTML test reports using pytest-html.
+- Configured GitHub Actions to run automated API tests on code pushes and pull requests.
+- Achieved **7 passing test cases** in the latest reported local test run.
 
-**Quality Engineering Focus:** REST API Automation | Positive and Negative Testing | Response Validation | Test Reporting | Continuous Integration
+**Quality Engineering Focus:** API Automation | Response Validation | Negative Testing | Test Reporting | Continuous Integration
 
 🔗 **Repository:** [API Test Automation Framework](https://github.com/srivarshinichary-cpu/api-test-automation)
 
+---
+
+### 🛒 2. Intelligent E-Commerce QA Automation Platform
+
+**Technologies:** Python | Selenium WebDriver | PyTest | Requests | SQL | SQLite | Page Object Model
+
+- Developed an automation solution covering UI, API, and database-related test scenarios for an e-commerce application.
+- Automated 10 test scenarios across login, cart, checkout, API, and order-validation workflows.
+- Organized UI automation using a reusable Page Object Model structure.
+- Incorporated explicit waits, PyTest fixtures, API validation, and SQLite database testing.
+- Reported a 100% pass rate across the implemented scenarios.
+- Executed the test suite in approximately 28 seconds.
+- Generated HTML reports and documented test evidence.
+
+**Quality Engineering Focus:** UI Automation | API Testing | Database Validation | Test Execution | Test Reporting
+
+🔗 **Repository:** Add the correct e-commerce project repository URL here.
+
+---
 
 ### 📊 3. Customer Churn & Retention Analytics
 
-**Technologies:** Python | SQL | Power BI | Pandas | Data Validation
+**Technologies:** Python | SQL | Power BI | Pandas | Excel
 
-* Analyzed a telecommunications dataset containing **7,043 customer records**.
-* Cleaned the dataset by handling 11 records with missing total-charge values, resulting in **7,032 records** for analysis.
-* Used Python and SQL to examine customer churn patterns and retention-related metrics.
-* Identified customer segments with elevated churn risk to support retention analysis.
-* Developed a two-page Power BI dashboard covering executive-level metrics and customer risk analysis.
-* Presented analytical findings through interactive visualizations and structured reporting.
+- Analyzed a telecommunications dataset containing 7,043 customer records.
+- Handled 11 records with missing TotalCharges values, producing a cleaned dataset of 7,032 records.
+- Used Python and SQL to investigate customer churn patterns across tenure, contract types, and payment methods.
+- Developed customer risk segmentation to support retention analysis.
+- Built a two-page interactive Power BI dashboard with KPI reporting and customer risk analysis.
+- Presented analytical findings through interactive visualizations and structured reporting.
 
-**Quality Engineering Relevance:** Data Quality | Data Cleaning | SQL Validation | Analytical Accuracy | Reporting
+**Quality Engineering Relevance:** Data Quality | SQL Validation | Data Cleaning | Analytical Accuracy
 
 🔗 **Repository:** [Customer Churn & Retention Analytics](https://github.com/srivarshinichary-cpu/Customer-Churn-Retention-Analytics)
 
 ---
 
+## 🎓 Education
 
+**Bachelor of Technology — Computer Science Engineering (Data Science)**
+
+Swami Vivekananda Institute of Technology  
+Affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH)
+
+**Graduation:** 2022–2026
+
+---
+
+## 📚 Professional Development
+
+### Infosys Springboard — Python Stack Virtual Internship
+
+**Status:** Selected
+
+Selected for the Infosys Springboard Python Stack Virtual Internship, focused on Python programming and practical learning activities.
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -184,34 +239,26 @@ This experience complements my interest in quality engineering by strengthening 
 
 ---
 
-## 🎓 Education
+## 🤝 Connect With Me
 
-**Bachelor of Technology — Computer Science Engineering (Data Science)**
-
-Swami Vivekananda Institute of Technology
-Affiliated with Jawaharlal Nehru Technological University Hyderabad (JNTUH)
-
-**Graduation:** 2022–2026
-
+<p align="left">
+  <a href="https://www.linkedin.com/in/mandam-srivarshini/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://instagram.com/_sri.__varshini__" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="mailto:srivarshinichary@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40"/>
+  </a>
+</p>
 
 ---
 
-## 🎓 Professional Development
+## 💼 Career Objective
 
-### Infosys Springboard — Python Stack Virtual Internship
+Aspiring Quality Engineer seeking entry-level opportunities to contribute to software quality through test automation, API validation, database testing, and structured test execution. Interested in developing maintainable automation frameworks, improving test coverage, investigating defects, and collaborating with engineering teams to deliver reliable software.
 
-**Status:** Selected
-
-Selected for the Infosys Springboard Python Stack Virtual Internship, focused on developing Python programming skills through structured learning and practical exercises.
-
-🤝 Connect With Me
-
-<p align="left"> <a href="https://www.linkedin.com/in/mandam-srivarshini/" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/> </a> <a href="https://instagram.com/_sri.__varshini__" target="_blank"> <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"/> </a> <a href="mailto:srivarshinichary@gmail.com"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40"/> </a> </p>
-
-💼 Career Objective
-
-Aspiring Quality Engineer seeking opportunities to contribute to software quality through test automation, API validation, database testing, and structured test execution. Interested in developing maintainable automation frameworks, improving test coverage, investigating defects, and collaborating with engineering teams to deliver reliable software.
-
-<p align="center"> <b>✨ Quality through testing. Confidence through validation. Reliability through automation. ✨</b> </p>
-
-
+<p align="center">
+  <b>✨ Quality through testing. Confidence through validation. Reliability through automation. ✨</b>
+</p>
